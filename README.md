@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bunny1351
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Redux
 - 💞️ I’m looking to collaborate on front end web development projects
 - 📫 How to reach me bhupendersinghbhauriyal@gmail.com
 - #Join ME @ https://www.linkedin.com/in/bhupender-singh-bhauriyal/
