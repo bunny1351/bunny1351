@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @bunny1351
+- 👋 Hi, I’m Bhupender Singh Bhauriyal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Redux
-- 💞️ I’m looking to collaborate on front end web development projects
+- 🌱 I’m currently learning React Redux
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me bhupendersinghbhauriyal@gmail.com
 - #Join ME @ https://www.linkedin.com/in/bhupender-singh-bhauriyal/
+- Portfolio website @ https://bhupender.netlify.app/
 
 <!---
 bunny1351/bunny1351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
