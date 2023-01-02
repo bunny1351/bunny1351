@@ -1,12 +1,30 @@
-- 👋 Hi, I’m Bhupender Singh Bhauriyal
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me bhupendersinghbhauriyal@gmail.com
-- #Join ME @ https://www.linkedin.com/in/bhupender-singh-bhauriyal/
-- Portfolio website @ https://bhupender.netlify.app/
+## Hey There ✋
+I am **Bhupender Singh Bhauriyal**, a **Software Engineer**.
 
-<!---
-bunny1351/bunny1351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about coding ❤. Currently working on web 💻 and app 📱 development. 
+
+I use **JavaScript** as my ***primary*** programming language.
+
+I would **love** to ***connect*** ✨ and ***collaborate*** 🎯 with you.
+
+**LinkedIn 👾** - [https://www.linkedin.com/in/bhupender-singh-bhauriyal/](https://www.linkedin.com/in/bhupender-singh-bhauriyal/)
+
+**Portfolio Website 🎖** - [https://bhupender.netlify.app/](https://bhupender.netlify.app/) 
+
+    ☝ (Old one, gonna update soon ✌)
+
+### Frameworks & Libraries that I use ✔
+- **Frontend** 🖼
+	 - [React JS](https://reactjs.org/)
+	 - [Angular](https://angular.io/)
+	 - [Next JS](https://nextjs.org/)
+- **Backend** 🤖
+	- [Node JS](https://nodejs.org/en/)
+	- [Express JS](https://expressjs.com/)
+- **Database** 📚 
+	- [MongoDB](https://www.mongodb.com/home)
+	- [MySQL](https://www.mysql.com/)
+- **Styling** 🖌
+	- [Bootstrap](https://getbootstrap.com/)
+	- [TailwindCSS](https://tailwindcss.com/)
+	- [SASS](https://sass-lang.com/)
