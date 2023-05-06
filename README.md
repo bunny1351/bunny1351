@@ -11,7 +11,7 @@ I would **love** to ***connect*** ✨ and ***collaborate*** 🎯 with you.
 
 **Portfolio Website 🎖** - [https://bhupender.netlify.app/](https://bhupender.netlify.app/) 
 
-    ☝ (Old one, gonna update soon ✌)
+    ☝ (Old one, gonna update soon, taking a bit longer ✌)
 
 ### Frameworks & Libraries that I use ✔
 - **Frontend** 🖼
@@ -21,6 +21,8 @@ I would **love** to ***connect*** ✨ and ***collaborate*** 🎯 with you.
 - **Backend** 🤖
 	- [Node JS](https://nodejs.org/en/)
 	- [Express JS](https://expressjs.com/)
+- **Full Stack Framework** 💻
+  - [Next JS](https://nextjs.org/)
 - **Database** 📚 
 	- [MongoDB](https://www.mongodb.com/home)
 	- [MySQL](https://www.mysql.com/)
@@ -28,3 +30,4 @@ I would **love** to ***connect*** ✨ and ***collaborate*** 🎯 with you.
 	- [Bootstrap](https://getbootstrap.com/)
 	- [TailwindCSS](https://tailwindcss.com/)
 	- [SASS](https://sass-lang.com/)
+	- [MUI](https://mui.com/)
